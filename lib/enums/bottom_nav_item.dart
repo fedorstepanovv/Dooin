@@ -1,0 +1,4 @@
+enum BottomNavItem{
+  crypto,
+  real
+}
